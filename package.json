@@ -1,0 +1,29 @@
+{
+  "name": "makerjs-double-band-clamp",
+  "version": "1.0.0",
+  "description": "A band clamp for two parallel tubes, for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danmarshall/makerjs-double-band-clamp.git"
+  },
+  "keywords": [
+    "makerjs",
+    "tube",
+    "pipe",
+    "clamp"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-double-band-clamp/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-double-band-clamp#readme",
+  "dependencies": {
+    "makerjs": "^0.9.17",
+    "makerjs-half-band-clamp": "^1.0.0"
+  }
+}
